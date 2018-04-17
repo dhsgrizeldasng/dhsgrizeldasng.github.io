@@ -1,20 +1,9 @@
-
- h1{
-  font-family: verdana;
-  color:blue;
+h1{
+  font-family: pacifico;
+  color:#0066cc;
 }
-
- h2{
-  font-family: verdana;
-  color:blue;
+  
+  body{
+    background-color: #99ddff;
 }
-
-p{
- font-family: verdana;
-}
-
-body {
-    background-color: #33ccff;
-}
-
 
